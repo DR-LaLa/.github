@@ -1,19 +1,97 @@
-<html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-		<title>readme</title>
-	</head>
-	<body>
-		<article id="6603f57d-9663-404e-92a4-18a4dc03f813" class="page sans"><header><h1 class="page-title">readme</h1><p class="page-description"></p><table class="properties"><tbody><tr class="property-row property-row-multi_select"><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesMultipleSelect"><path d="M1.91602 4.83789C2.44238 4.83789 2.87305 4.40723 2.87305 3.87402C2.87305 3.34766 2.44238 2.91699 1.91602 2.91699C1.38281 2.91699 0.952148 3.34766 0.952148 3.87402C0.952148 4.40723 1.38281 4.83789 1.91602 4.83789ZM5.1084 4.52344H14.3984C14.7607 4.52344 15.0479 4.23633 15.0479 3.87402C15.0479 3.51172 14.7607 3.22461 14.3984 3.22461H5.1084C4.74609 3.22461 4.45898 3.51172 4.45898 3.87402C4.45898 4.23633 4.74609 4.52344 5.1084 4.52344ZM1.91602 9.03516C2.44238 9.03516 2.87305 8.60449 2.87305 8.07129C2.87305 7.54492 2.44238 7.11426 1.91602 7.11426C1.38281 7.11426 0.952148 7.54492 0.952148 8.07129C0.952148 8.60449 1.38281 9.03516 1.91602 9.03516ZM5.1084 8.7207H14.3984C14.7607 8.7207 15.0479 8.43359 15.0479 8.07129C15.0479 7.70898 14.7607 7.42188 14.3984 7.42188H5.1084C4.74609 7.42188 4.45898 7.70898 4.45898 8.07129C4.45898 8.43359 4.74609 8.7207 5.1084 8.7207ZM1.91602 13.2324C2.44238 13.2324 2.87305 12.8018 2.87305 12.2686C2.87305 11.7422 2.44238 11.3115 1.91602 11.3115C1.38281 11.3115 0.952148 11.7422 0.952148 12.2686C0.952148 12.8018 1.38281 13.2324 1.91602 13.2324ZM5.1084 12.918H14.3984C14.7607 12.918 15.0479 12.6309 15.0479 12.2686C15.0479 11.9062 14.7607 11.6191 14.3984 11.6191H5.1084C4.74609 11.6191 4.45898 11.9062 4.45898 12.2686C4.45898 12.6309 4.74609 12.918 5.1084 12.918Z"></path></svg></span>진행단계</th><td><span class="selected-value select-value-color-gray">진행중</span></td></tr></tbody></table></header><div class="page-body"><h2 id="592ea1e5-2849-4b60-b3d2-3a48051451e0" class="">DR.LaLa</h2><hr id="74c847be-c6f5-496c-a672-cffb11efcfaa"/><figure class="block-color-default callout" style="white-space:pre-wrap;display:flex" id="5c025666-4bba-4492-9fe6-145044680a3c"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%"><strong>DR.LaLa</strong>는 건강, 약과 관련한 퀴즈를 풀어볼 수 있는 서비스입니다.</div></figure><p id="508f7820-dc31-418e-84fc-965e4bb337bd" class="">
-</p><h3 id="e102b157-82e8-4e5a-846e-5662a1770588" class="">프로젝트 진행 단체</h3><p id="a5ffb434-bea5-43e5-80e5-2aa826b7a95a" class="">부산외국어대학교 2024년 컴퓨터공학과 해커톤 대회에 출품하였습니다.</p><p id="08cecdaa-c78b-48f0-a6e8-093717b94cce" class="">
-</p><h3 id="923374eb-ea76-43ae-a5a4-1fed81c9d073" class="">프로젝트 팀원</h3><ul id="215f0243-2ceb-4e74-b3d4-cdb3a0fdb2b1" class="bulleted-list"><li style="list-style-type:disc"><strong>프론트엔드</strong></li></ul><p id="17656db6-c741-4347-a4dc-6b52e8398e32" class="">→ 컴퓨터공학과 22학번 서예린 | <a href="https://github.com/seyerin">https://github.com/seyerin</a></p><p id="4f28d2df-367e-4569-848e-d3690e0657de" class="">
-</p><ul id="f39f318c-3e21-4b2b-bc0e-881c5d0304cd" class="bulleted-list"><li style="list-style-type:disc"><strong>백엔드</strong></li></ul><p id="afeb0469-61b4-4ae9-857a-8ed1b52966bc" class="">→ 컴퓨터공학과 20학번 류동하 | <a href="https://github.com/dongha0312">https://github.com/dongha0312</a></p><p id="aa63bbed-52f2-4136-b61b-ad436a8e0516" class="">→ 컴퓨터공학과 23학번 황서은 | <a href="https://github.com/Hwangseoeun">https://github.com/Hwangseoeun</a></p><p id="407e1c35-9e53-40d4-99b6-47aeda065d05" class="">
-</p><h3 id="b5f6e16d-3efc-4373-b430-a56f25736a1a" class="">사용 기술 스택</h3><p id="e580850d-ef9f-4266-9426-92dc0db878ee" class=""><strong>프론트엔드</strong> : React, Styled Component</p><p id="6e64ef6e-8df9-4541-a639-447dde6d12f1" class=""><strong>백엔드</strong> : Java, SpringBoot, Spring JPA, Mysql</p><p id="2e032e12-abc9-4a61-b216-b3b8d530864f" class=""><strong>협업</strong> : Notion</p><p id="ccfd5b47-5d67-4993-a5a5-3bc4a2a0c8d6" class="">
-</p><h3 id="a80e698d-c57a-4c6a-a98f-f6ca28ad5dc0" class="">개발 기간</h3><blockquote id="979c31a5-b71a-497d-b80f-fdfdf3552717" class="">2024.05.14 ~ 2024.06.02</blockquote><p id="6cf9586d-2f1c-475e-9f54-d290f8e4e989" class="">
-</p><h3 id="ba5eb9a0-41e6-4c9e-96e9-0950c71feed6" class="">프로젝트 소개</h3><hr id="bf6ff807-7642-4c62-ac9a-e30b0801014b"/><ul id="4a3cef52-74dc-47c2-96f5-96a17afb2067" class="bulleted-list"><li style="list-style-type:disc"><strong>서비스명</strong> : DR.LaLa</li></ul><p id="76ffd407-e5a2-4d41-87d9-8bc353d20df0" class="">
-</p><ul id="41892915-f75c-449c-aa66-df55cc2ee73b" class="bulleted-list"><li style="list-style-type:disc"><strong>주제 선정 이유</strong></li></ul><p id="9db4930e-49c5-4a96-af60-b7270ef47495" class="">코로나19 팬데믹은 전 세계적으로 건강의 중요성을 다시 한 번 상기시켰습니다. 감염병의 위협은 건강한 생활습관과 예방의 필요성을 부각시켰고, 이에 따라 웰빙과 자기 관리에 대한 관심이 급증했습니다. 또한 현대 사회에서 건강한 생활방식이 중요한 트렌드로 자리 잡으면서, 많은 사람들이 이를 실천하고 있습니다.</p><p id="7049f782-1ca9-43e1-a738-2b54a4aba561" class="">이와 같은 변화 속에서 건강과 약 등 의료 분야는 일상 생활과 밀접하게 연관되어 있지만, 정보가 많고 다양해 많은 사람들이 중요한 정보를 놓치는 경우가 있습니다. 이러한 문제를 해결하고, 새로운 정보를 제공하기 위해 해당 서비스를 개발하게 되었습니다.</p><p id="2c851fff-5c48-4aaa-b03a-5cdda51eba0b" class="">
-</p><h3 id="0bb183b8-186c-435c-a3ed-5719a2b8f653" class="">주요 기능</h3><hr id="e7cc489f-dacb-448d-a55a-e4e5ec6dc0f3"/><p id="e7092f90-e9cd-4cf6-8e1a-f040c83b2034" class="">⭐️ <strong>건강, 약에 관련한 퀴즈를 풀 수 있는 기능</strong></p><ul id="4535a92b-9a34-4a1f-886a-6e30f8e215b0" class="bulleted-list"><li style="list-style-type:disc">랜덤으로 퀴즈를 풀어볼 수 있음(중복된 문제는 나오지 않음)</li></ul><ul id="12d953d5-1479-444b-8a12-bacc923967d4" class="bulleted-list"><li style="list-style-type:disc">4지선다 or O/X 두가지의 퀴즈 스타일</li></ul><p id="1d30173d-d7ec-47f3-be86-a3d7fba4134c" class="">
-</p><p id="80d839b5-5abb-47d4-9e56-211a0d7e68f1" class=""><strong>⭐️ 랭킹 기능</strong></p><ul id="0e9233c0-ab56-495b-95e2-6c3dcf550399" class="bulleted-list"><li style="list-style-type:disc">사용자가 푼 퀴즈 문제의 갯수만큼 랭킹 시스템 적용</li></ul><p id="248a10dc-166c-48e8-a42b-af52408c9e33" class="">
-</p><p id="f81ff96d-13fb-4f7f-8eb2-0748f909285d" class=""><strong>⭐️ 캐릭터 성장, 도감 기능</strong></p><ul id="445fd09f-981f-40bc-9fa2-91601fb0b758" class="bulleted-list"><li style="list-style-type:disc">퀴즈 문제의 갯수만큼 캐릭터를 계속 성장시킴 (단위 : 10문제)</li></ul><p id="5259c78b-5260-433f-930c-e56336a7c25c" class="">
-</p><p id="9c67a401-7a37-47db-8934-d82427421f21" class=""><strong>⭐️ 약 관련한 검색 기능</strong></p><ul id="c42a171b-f04b-476f-8807-e7941a9cfe60" class="bulleted-list"><li style="list-style-type:disc">사용자가 궁금한 약에 대하여 검색해볼 수 있음</li></ul><p id="34ef1a0b-23d6-4917-a3c8-60599993bda9" class="">
-</p><p id="ab093a2e-8083-4e3b-bd32-3b934ffd2a12" class=""><strong>⭐️ 회원가입, 로그인, 로그아웃 기능</strong></p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
+<div>
+    <h1>DR.LaLa</h1>
+    <h6></h6>
+    <br>
+    <div style="border: 1px;">
+        <p>💡 <b>DR.LaLa</b>는 건강, 약과 관련한 퀴즈를 풀어볼 수 있는 서비스입니다.</p>
+    </div>
+    <br>
+    <br>
+    <div>
+        <h3>프로젝트 진행 단체</h3><br>
+        <p>부산외국어대학교 2024년 컴퓨터공학과 해커톤 대회에 출품하였습니다.</p>
+    </div>
+    <br>
+    <br>
+    <div>
+        <h3>프로젝트 팀원</h3><br>
+        <p>⚫️ 프론트엔드</p><br>
+        <p>→ 컴퓨터공학과 22학번 서예린 | </p><a href="https://github.com/seyerin"></a>
+        <br>
+        <br>
+        <p>⚫️ 백엔드</p><br>
+        <p>→ 컴퓨터공학과 20학번 류동하 | </p><a href="https://github.com/dongha0312"></a>
+        <p>→ 컴퓨터공학과 23학번 황서은 | </p><a href="https://github.com/Hwangseoeun"></a>
+    </div>
+    <br>
+    <br>
+    <div>
+        <h3>사용 기술 스택</h3><br>
+        <p><b>프론트엔드 : </b></p>
+        <img src="https://img.shields.io/badge/React-FFDE44?style=for-the-badge&logo=React&logoColor=white" />
+        <img src="https://img.shields.io/badge/styled--components-FF4C4C?style=for-the-badge&logo=styled-components&logoColor=white" alt=""/>
+        <br>
+        <p><b>백엔드 : </b></p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+        <br>
+        <p><b>협업 : </b></p>
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    </div>
+    <br>
+    <br>
+    <div>
+        <h3>개발 기간</h3><br>
+        <p><b>|</b> <i>2024.05.14 ~ 2024.06.02</i></p>
+    </div>
+    <br>
+    <br>
+    <div>
+        <h3>프로젝트 소개</h3>
+        <h6></h6><br>
+        <div>
+            <p>⚫️ <b>서비스명 : </b>DR.LaLa</p>
+        </div>
+        <div>
+            <p>⚫️ <b>주제 선정 이유</b></p><br>
+            <p>코로나19 팬데믹은 전 세계적으로 건강의 중요성을 다시 한 번 상기시켰습니다. 감염병의 위협은 건강한 생활습관과 예방의 필요성을 부각시켰고, 이에 따라 웰빙과 자기 관리에 대한 관심이 급증했습니다. 또한 현대 사회에서 건강한 생활방식이 중요한 트렌드로 자리 잡으면서, 많은 사람들이 이를 실천하고 있습니다.</p>
+            <p>이와 같은 변화 속에서 건강과 약 등 의료 분야는 일상 생활과 밀접하게 연관되어 있지만, 정보가 많고 다양해 많은 사람들이 중요한 정보를 놓치는 경우가 있습니다. 이러한 문제를 해결하고, 새로운 정보를 제공하기 위해 해당 서비스를 개발하게 되었습니다.</p>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div>
+        <h3>주요 기능</h3>
+        <h6></h6><br>
+        <div>
+            <p>⭐️ <b>건강, 약에 관련한 퀴즈를 풀 수 있는 기능</b></p><br>
+            <p>⚫️ 랜덤으로 퀴즈를 풀어볼 수 있음(중복된 문제는 나오지 않음)</p><br>
+            <p>⚫️ 4지선다 or O/X 두가지의 퀴즈 스타일</p><br>
+        </div>
+        <br>
+        <br>
+        <div>
+            <p>⭐️ <b>랭킹 기능</b></p><br>
+            <p>⚫️ 사용자가 푼 퀴즈 문제의 갯수만큼 랭킹 시스템 적용</p><br>
+        </div>
+        <br>
+        <br>
+        <div>
+            <p>⭐️ <b>캐릭터 성장, 도감 기능</b></p><br>
+            <p>⚫️ 퀴즈 문제의 갯수만큼 캐릭터를 계속 성장시킴 (단위 : 10문제)</p><br>
+        </div>
+        <br>
+        <br>
+        <div>
+            <p>⭐️ <b>약 관련한 검색 기능</b></p><br>
+            <p>⚫️ 사용자가 궁금한 약에 대하여 검색해볼 수 있음</p><br>
+        </div>
+        <br>
+        <br>
+        <div>
+            <p>⭐️ <b>회원가입, 로그인, 로그아웃 기능</b></p><br>
+        </div>        
+    </div>
+</div>
