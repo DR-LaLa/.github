@@ -17,7 +17,7 @@
         <br>
         <br>
         <p>✔️ 백엔드</p>
-        → 컴퓨터공학과 20학번 류동하 | <a href="https://github.com/dongha0312">https://github.com/dongha0312</a>
+        → 컴퓨터공학과 20학번 류동하 | <a href="https://github.com/dongha0312">https://github.com/dongha0312</a><br>
         → 컴퓨터공학과 23학번 황서은 | <a href="https://github.com/Hwangseoeun">https://github.com/Hwangseoeun</a>
     </div>
     <br>
