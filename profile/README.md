@@ -88,10 +88,10 @@
         <h3>화면구성</h3>
         <h6></h6>
         <table>
-            <th>
-                <td>메인페이지</td>
-                <td>유저 정보 및 설정 페이지</td>
-            </th>
+            <tr>
+                <th>메인페이지</th>
+                <th>유저 정보 및 설정 페이지</th>
+            </tr>
             <tr>
                 <td><img alt="메인페이지" src="https://github.com/DR-LaLa/.github/assets/129192366/eaf41a5b-7257-4038-b379-c7c9a5a5760a"></td>
                 <td><img alt="유저 정보 및 설정 페이지" src="https://github.com/DR-LaLa/.github/assets/129192366/42206ee7-8c6a-4a36-b5c5-a29e507db8db"></td>
