@@ -111,5 +111,17 @@
                 <td><img alt="정답 및 해설" src="https://github.com/DR-LaLa/.github/assets/129192366/20a10359-a68d-4ae7-81bc-cd2e24dfb944"></td>
             </tr>
         </table>
+        <table>
+            <tr>
+                <th>사용자 랭킹</th>
+                <th>의약품 검색기능</th>
+                <th>캐릭터 도감</th>
+            </tr>
+            <tr>
+                <td><img alt="사용자 랭킹" src="https://github.com/DR-LaLa/.github/assets/129192366/9f77a75d-9d72-4b07-9641-fd4ab6bde50c"></td>
+                <td><img alt="의약품 검색기능" src="https://github.com/DR-LaLa/.github/assets/129192366/11a2ccb0-9721-4052-b5fd-07be635a9383"></td>
+                <td><img alt="캐릭터 도감" src="https://github.com/DR-LaLa/.github/assets/129192366/c4d49554-e622-489a-8336-bf942002614e"></td>
+            </tr>
+        </table>
     </div>
 </div>
