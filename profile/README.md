@@ -97,5 +97,19 @@
                 <td><img alt="유저 정보 및 설정 페이지" src="https://github.com/DR-LaLa/.github/assets/129192366/42206ee7-8c6a-4a36-b5c5-a29e507db8db"></td>
             </tr>
         </table>
+        <table>
+            <tr>
+                <th>퀴즈 시작화면</th>
+                <th>퀴즈 유형(O/X)</th>
+                <th>퀴즈 유형(4지선다)</th>
+                <th>정답 및 해설</th>
+            </tr>
+            <tr>
+                <td><img alt="퀴즈 시작화면" src="https://github.com/DR-LaLa/.github/assets/129192366/d9c23880-1756-4710-a3d8-a464013e4677"></td>
+                <td><img alt="퀴즈 유형(O/X)" src="https://github.com/DR-LaLa/.github/assets/129192366/07360785-de24-4b94-9b92-a340486bb84d"></td>
+                <td><img alt="퀴즈 유형(4지선다)" src="https://github.com/DR-LaLa/.github/assets/129192366/3bbe8374-2ae5-4953-b330-dd924f09f368"></td>
+                <td><img alt="정답 및 해설" src="https://github.com/DR-LaLa/.github/assets/129192366/20a10359-a68d-4ae7-81bc-cd2e24dfb944"></td>
+            </tr>
+        </table>
     </div>
 </div>
