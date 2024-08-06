@@ -5,7 +5,7 @@
         <p>💡 <b>DR.LaLa</b>는 건강, 약과 관련한 퀴즈를 풀어볼 수 있는 서비스입니다.</p>
     </div>
     <br>
-    <div>
+<!--     <div>
         <h3>프로젝트 진행 단체</h3>
         <p>부산외국어대학교 2024년 컴퓨터공학과 해커톤 대회에 출품 후 수상하였습니다.</p>
     </div>
@@ -20,7 +20,7 @@
         → 컴퓨터공학과 20학번 류동하 | <a href="https://github.com/dongha0312">https://github.com/dongha0312</a><br>
         → 컴퓨터공학과 23학번 황서은 | <a href="https://github.com/Hwangseoeun">https://github.com/Hwangseoeun</a>
     </div>
-    <br>
+    <br> -->
     <div>
         <h3>사용 기술 스택</h3><br>
         <p>
