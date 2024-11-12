@@ -40,11 +40,11 @@
             <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         </p>
     </div>
-<!--     <br>
+     <br>
     <div>
         <h3>개발 기간</h3>
         <p><b>|</b>&nbsp;&nbsp;&nbsp;<i>2024.05.14 ~ 2024.06.02</i></p>
-    </div> -->
+    </div>
     <br>
     <div>
         <h3>프로젝트 소개</h3>
