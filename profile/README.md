@@ -13,12 +13,12 @@
     <div>
         <h3>프로젝트 팀원</h3>
         <p>✔️ 프론트엔드</p>
-        → 컴퓨터공학과 22학번 서예린 | <a href="https://github.com/seyerin">https://github.com/seyerin</a>
+        → 컴퓨터공학과 서예린 | <a href="https://github.com/seyerin">https://github.com/seyerin</a>
         <br>
         <br>
         <p>✔️ 백엔드</p>
-        → 컴퓨터공학과 20학번 류동하 | <a href="https://github.com/dongha0312">https://github.com/dongha0312</a><br>
-        → 컴퓨터공학과 23학번 황서은 | <a href="https://github.com/Hwangseoeun">https://github.com/Hwangseoeun</a>
+        → 컴퓨터공학과 류동하 | <a href="https://github.com/dongha0312">https://github.com/dongha0312</a><br>
+        → 컴퓨터공학과 황서은 | <a href="https://github.com/Hwangseoeun">https://github.com/Hwangseoeun</a>
     </div>
     <br>
     <div>
